@@ -7,6 +7,9 @@ Laravel 5 扩展包示例
 
 步骤很详细
 
+##说明
+>你有可能需要.env。
+
 ##其他参考
 >http://laravel-china.org/docs/5.1/controllers
 
