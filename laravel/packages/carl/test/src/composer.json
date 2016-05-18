@@ -1,0 +1,13 @@
+{
+    "name": "carl/src",
+    "description": "just a test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HouYang",
+            "email": "houyangyang@qufenqi.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
